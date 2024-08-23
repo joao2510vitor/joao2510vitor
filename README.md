@@ -35,14 +35,14 @@ Olá! Eu sou João Vitor, um estudante de Sistemas de Informação, comprometido
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao25102000silva&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao2510vitor&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao25102000silva&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao2510vitor&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joao25102000silva&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joao2510vitor&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 ## 🛠️ Ferramentas
 
